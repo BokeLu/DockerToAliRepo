@@ -3,7 +3,6 @@ redis:7.4.2
 nginx:1.27
 nginx:1.26
 mysql:5.7
-mysql:5.8
 openjdk:25
 openjdk:24
 openjdk:8
