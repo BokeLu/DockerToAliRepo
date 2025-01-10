@@ -6,8 +6,12 @@ mysql:5.7
 openjdk:25
 openjdk:24
 openjdk:8
-#nacos/nacos-server:v2.4.3
-#nacos/nacos-server:v2.1.0
+nacos/nacos-server:v2.4.3
+nacos/nacos-server:v2.1.0
+rabbitmq:3.8.9
+kibana:7.11.1
+elasticsearch:7.11.1
+tomcat:8
 #redis
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
