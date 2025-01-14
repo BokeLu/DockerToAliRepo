@@ -1,4 +1,5 @@
 redis:6.0.8
+redis:6.2.6
 redis:7.4.1
 redis:7.4.2
 nginx:1.27
