@@ -18,6 +18,9 @@ tomcat:8
 tomcat:9
 centos:7
 centos:8
+ubuntu:18
+ubuntu:19
+ubuntu:20
 #vim
 net-tools
 #glibc.i686
