@@ -22,7 +22,7 @@ ubuntu:18
 ubuntu:19
 ubuntu:20
 #vim
-net-tools
+#net-tools
 #glibc.i686
 #redis
 #ghcr.io/sozercan/llama3.1:8b
