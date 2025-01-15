@@ -18,8 +18,8 @@ tomcat:8
 tomcat:9
 centos:7
 centos:8
-vim
-#net-tools
+#vim
+net-tools
 #glibc.i686
 #redis
 #ghcr.io/sozercan/llama3.1:8b
