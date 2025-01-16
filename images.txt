@@ -20,6 +20,8 @@ centos:7
 centos:8
 ubuntu:18.04
 ubuntu:20.04
+boystar/ubantu:ubantu
+boystar/ubantu:latest
 #vim
 #net-tools
 #glibc.i686
